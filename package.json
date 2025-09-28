@@ -1,0 +1,10 @@
+{
+  "name": "zenn",
+  "type": "module",
+  "scripts": {
+    "zenn": "zenn"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.2.3"
+  }
+}
