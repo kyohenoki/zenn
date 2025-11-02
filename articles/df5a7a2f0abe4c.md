@@ -3,7 +3,7 @@ title: "Mac でアイコンを Linux ガチ勢みたいに拘りたい"
 emoji: "😼"
 type: "idea"
 topics: [macos, icon]
-published: true
+published: false
 ---
 
 Mac のアイコンをカッコよくしたいと思ったことはありませんか？
